@@ -50,12 +50,4 @@
 
 ---
 
-### 📊 GitHub Stats:
 
-<div align="center">
-
-![Estadísticas de Adriana](https://github-readme-stats.vercel.app/api?username=adrianapereira-ops&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb7c5&icon_color=f8c8dc)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianapereira-ops&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb7c5)
-
-</div>
