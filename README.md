@@ -1,4 +1,4 @@
-🌷 ♡ About Me
+#🌷 ♡ About Me
 
 🔭 Estudiando: Desarrollo de Aplicaciones Multiplataforma (DAM)
 
