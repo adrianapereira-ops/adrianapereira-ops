@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma<br>🎶 Me encantan los instrumentos y me gusta dedicar mi tiempo libre a ellos<br>⛹️‍♀️ Mi deporte es el baloncesto<br>🎯 Busco seguir creciendo profesionalmente<br><br>
+🌷 ♡ About Me
+
+🔭 Estudiando: Desarrollo de Aplicaciones Multiplataforma (DAM)
+
+🎶 Passions: Me encantan los instrumentos musicales y les dedico gran parte de mi tiempo libre 🎻🎹
+
+⛹️‍♀️ Sport: El baloncesto es mi deporte favorito 🏀
+
+🎯 Goal: Seguir creciendo profesionalmente y crear software increíble ✨<br><br>
 
 
 ## 🌐 Socials:
