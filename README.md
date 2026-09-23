@@ -1,20 +1,61 @@
+<div align="center">
 
+# 🌸 ¡Hola, soy Adriana! 🎀
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFB7C5&center=true&vCenter=true&width=435&lines=Estudiante+de+DAM;Apasionada+de+la+m%C3%BAsica;Jugadora+de+baloncesto;Creando+software+con+estilo+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
-# 🌷 ♡ About Me:
+</div>
 
-🔭 Estudiando: Desarrollo de Aplicaciones Multiplataforma (DAM)
+---
 
-🎶 Passions: Me encantan los instrumentos musicales y les dedico gran parte de mi tiempo libre 🎻🎹
+### 🌷 About Me:
 
-⛹️‍♀️ Sport: El baloncesto es mi deporte favorito 🏀
+- 🔭 **Estudiando:** Desarrollo de Aplicaciones Multiplataforma (DAM)
+- 🎶 **Pasiones:** Me encantan los instrumentos musicales y les dedico gran parte de mi tiempo libre 🎻 🎹
+- 🏀 **Deporte:** El baloncesto es mi deporte favorito
+- 🎯 **Objetivo:** Seguir creciendo profesionalmente y crear aplicaciones increíbles ✨
 
-🎯 Goal: Seguir creciendo profesionalmente y crear software increíble ✨<br><br>
+---
 
+### 💻 Tech Stack:
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adriiana.pereiraa) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aadriiiannaa_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@meexplicomal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrianapereiradomenech@gmail.com) 
+#### 🌸 Lenguajes
+![Java](https://img.shields.io/badge/Java-f8c8dc?style=flat-square&logo=openjdk&logoColor=555)
+![C#](https://img.shields.io/badge/C%23-ffb7c5?style=flat-square&logo=csharp&logoColor=555)
+![C++](https://img.shields.io/badge/C++-cdb4db?style=flat-square&logo=c%2B%2B&logoColor=555)
+![JavaScript](https://img.shields.io/badge/JavaScript-f8c8dc?style=flat-square&logo=javascript&logoColor=555)
+![PHP](https://img.shields.io/badge/PHP-ffb7c5?style=flat-square&logo=php&logoColor=555)
+![Swift](https://img.shields.io/badge/Swift-cdb4db?style=flat-square&logo=swift&logoColor=555)
+![Dart](https://img.shields.io/badge/Dart-f8c8dc?style=flat-square&logo=dart&logoColor=555)
+![CSS3](https://img.shields.io/badge/CSS3-ffb7c5?style=flat-square&logo=css3&logoColor=555)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+#### 🎀 Frameworks & Plataformas
+![.NET](https://img.shields.io/badge/.NET-cdb4db?style=flat-square&logo=.net&logoColor=555)
+![NodeJS](https://img.shields.io/badge/Node.js-f8c8dc?style=flat-square&logo=node.js&logoColor=555)
+![Astro](https://img.shields.io/badge/Astro-ffb7c5?style=flat-square&logo=astro&logoColor=555)
+![Vercel](https://img.shields.io/badge/Vercel-cdb4db?style=flat-square&logo=vercel&logoColor=555)
+![Netlify](https://img.shields.io/badge/Netlify-f8c8dc?style=flat-square&logo=netlify&logoColor=555)
 
+#### 💖 Bases de Datos & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-ffb7c5?style=flat-square&logo=firebase&logoColor=555)
+![SQLite](https://img.shields.io/badge/SQLite-cdb4db?style=flat-square&logo=sqlite&logoColor=555)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f8c8dc?style=flat-square&logo=postgresql&logoColor=555)
+![Azure](https://img.shields.io/badge/Azure-ffb7c5?style=flat-square&logo=microsoftazure&logoColor=555)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-cdb4db?style=flat-square&logo=cloudflare&logoColor=555)
+
+#### ✨ Herramientas
+![Git](https://img.shields.io/badge/Git-f8c8dc?style=flat-square&logo=git&logoColor=555)
+![GitHub](https://img.shields.io/badge/GitHub-ffb7c5?style=flat-square&logo=github&logoColor=555)
+![Canva](https://img.shields.io/badge/Canva-cdb4db?style=flat-square&logo=canva&logoColor=555)
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+
+![Estadísticas de Adriana](https://github-readme-stats.vercel.app/api?username=adrianapereira-ops&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb7c5&icon_color=f8c8dc)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianapereira-ops&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb7c5)
+
+</div>
